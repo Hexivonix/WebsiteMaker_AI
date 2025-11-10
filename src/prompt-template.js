@@ -1,0 +1,1 @@
+export const PROMPT_SYSTEM = 'template';

@@ -1,0 +1,1 @@
+export function safeParseJSON(text){return JSON.parse(text);}
